@@ -1,0 +1,9 @@
+Origin: SMOBA
+Label: Bit
+Suite: stable
+Version: 1.0
+Codename: Bit
+Architectures: iphoneos-arm
+Components: main
+Description: SMOBA
+

@@ -1,0 +1,15 @@
+Package: com.green.bit
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.green.bit_0.1-1_iphoneos-arm.deb
+Size: 3337786
+MD5sum: f2aa18e5b3e21eb7ece55aa778a0eb28
+SHA1: dee4d3f14ba596f55e471cffc0f648c451483825
+SHA256: 25f7c00ef8a061a8669c6a5b1d6b321993ce9d9e18497950947344d26ec89ea9
+Section: System
+Priority: optional
+Description: Green Plugin
+Author: Green Plugin
+Name: Green Plugin
+
